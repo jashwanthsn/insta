@@ -1,2 +1,0 @@
-# insta
-Just for education
